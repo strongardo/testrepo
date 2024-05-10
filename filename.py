@@ -1,2 +1,2 @@
-print('ahaha')
+print('adada')
 print('azaza')
