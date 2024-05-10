@@ -1,2 +1,2 @@
-print('hello worlds')
+print('hello lords')
 print('azaza')
