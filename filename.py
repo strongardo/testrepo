@@ -1,2 +1,1 @@
-print('adada')
-print('azaza')
+print('hello worlds')
